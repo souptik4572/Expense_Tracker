@@ -75,6 +75,7 @@ def yearly_expense_chart():
 def Entire_Expense(chartFinal):
     print("\nThe entire Expense is as follows : ")
     print("\n\n", chartFinal)
+    print()
 
 
 def Pie_Chart(category, category_name):
